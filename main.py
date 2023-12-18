@@ -66,5 +66,3 @@ print(songs)
 
 for idx, song in enumerate(songs):
     print(f"{idx + 1}. {song['name']}")
-
-print(client_id, client_secret)
